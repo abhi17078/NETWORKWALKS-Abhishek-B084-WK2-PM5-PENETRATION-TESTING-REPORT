@@ -1,4 +1,4 @@
-NETWORKWALKS-Abhishek-B084-WK2-PM5-PENETRATION-TESTING-REPORT
+ Week 2 – Penetration Testing: Footprinting, OSINT & Network Scanning
 
 ## 1. Project Overview
 
